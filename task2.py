@@ -7,4 +7,6 @@ if __name__ == '__main__':
 
     c = [i for i in a]  # [3, 6, 9]
     e = [i for i in b]  # [2, 4, 6, 8]
-
+    
+    print(c)
+    print(e)
